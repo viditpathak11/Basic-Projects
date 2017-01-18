@@ -1,3 +1,3 @@
 # Basic-Projects
-Simple projects by me as a novice programmer. 
-These ar esome beginner level projects in C and Python. The ideas for these projects have been taken from reddit and Project Euler.
+Basic beginner level projects.
+Basic projects in C and python. The topics for these projects are from Reddit and Project Euler.
