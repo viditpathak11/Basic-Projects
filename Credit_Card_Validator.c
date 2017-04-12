@@ -1,3 +1,4 @@
+/*A programm that will check the number entered by the user and then tell the user whether the number is of a valid credit card or not*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
