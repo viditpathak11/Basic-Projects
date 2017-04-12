@@ -1,3 +1,5 @@
+#A simple implementation of the classic "Rock-Paper-Scissor" game using the random library in python.
+
 from random import randint
  '''This is a simple Rock Paper Scissor Game using nested conditional statements'''
 #create a list of play options
