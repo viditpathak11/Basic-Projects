@@ -1,3 +1,4 @@
+/* Created a Caeser cypher in C. */
 #include <stdio.h>
 #include <cs50.h>
 #include <stdlib.h>
